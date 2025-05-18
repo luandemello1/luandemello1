@@ -1,7 +1,5 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=180&section=header&text=Luan%20de%20Mello&fontSize=40&fontColor=ffffff" alt="Banner principal"/>
-</p>
+<!-- Título de boas-vindas -->
+<h1 align="center">Olá! 👋 Bem-vindo à minha Profile.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Lua+é+minha+paixão+%F0%9F%94%A5;Criando+com+criatividade+e+tecnologia+%F0%9F%92%A1" alt="Typing SVG" />
