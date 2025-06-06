@@ -69,13 +69,13 @@ console.log('Fatorial de 5:', fatorial(5));
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.youtube.com/@luandemello1" target="_blank">
+  <a href="https://www.youtube.com/@loonxziek" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
   </a>
-  <a href="https://discord.com/users/luandemello1" target="_blank">
+  <a href="https://discord.com/users/notpertubloone" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
   </a>
-  <a href="https://instagram.com/luandemello1" target="_blank">
+  <a href="https://instagram.com/loonefxp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
 </p>
